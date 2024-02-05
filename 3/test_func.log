@@ -1,0 +1,9 @@
+2024-01-31 20:12:20,671 - test_func - INFO - function call: test_func
+2024-01-31 20:12:20,671 - test_func - ERROR - unsupported operand type(s) for /: 'int' and 'str'
+2024-01-31 20:12:26,570 - test_func - INFO - function call: test_func
+2024-01-31 20:12:26,570 - test_func - ERROR - division by zero
+2024-01-31 20:13:30,918 - test_func - INFO - function call: test_func
+2024-01-31 20:13:30,918 - test_func - ERROR - division by zero
+2024-01-31 20:14:21,397 - test_func - INFO - function call: test_func
+2024-01-31 20:14:21,397 - test_func - INFO - The input: 25
+2024-01-31 20:14:21,397 - test_func - ERROR - division by zero
